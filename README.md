@@ -12,12 +12,12 @@ The healthy, uninfected crowd which have a probability of becoming the infective
 ## Equations
 
 ### ![](http://latex.codecogs.com/gif.latex?I_1=k_NI)
-### ![](http://latex.codecogs.com/gif.latex?I_{eff} =I_1+E)
+### ![](http://latex.codecogs.com/gif.latex?I_{eff}=I_1+E)
 
 ## Kinetics
 
 ### ![](http://latex.codecogs.com/gif.latex?-\frac{dS}{dt}=\alphaSI_{eff})
-### ![](http://latex.codecogs.com/gif.latex?\frac{dE}{dt}=\alpha SI_{eff}-\betaE)
+### ![](http://latex.codecogs.com/gif.latex?\frac{dE}{dt}=\alphaSI_{eff}-\betaE)
 ### ![](http://latex.codecogs.com/gif.latex?\frac{dI}{dt}=\betaE-(\gamma+\delta)I)
 ### ![](http://latex.codecogs.com/gif.latex?\frac{dR}{dt}=\gamma)
 ### ![](http://latex.codecogs.com/gif.latex?\frac{dD}{dt}=\deltaI)
