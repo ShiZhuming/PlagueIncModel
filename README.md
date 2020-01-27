@@ -17,6 +17,7 @@ $$ \frac{dD}{dt} = \delta I $$
 ## Data
 ### Data Source Announcement
 The data shown below are all captured from the website of National Health Commission of PRC(中国国家卫生健康委员会 http://www.nhc.gov.cn/) and Local Health Commission in China(Wuhan, e.g.).
+
 |Date |	Day |	Skeptical |	Comfirmed	Dead |	Cured |	DeathRatio |	CureRatio |	dD/dt |	dR/dt |
 |---: |---: |---------: |--------------: |------: |-----------:|-----------:|------:|-----: |
 |2020/1/5|	5|	0|	59|	0|	0|	0.0%|	0.0%|		||
