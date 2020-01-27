@@ -9,8 +9,8 @@ $$ I_{eff} = I_1 + E $$
 
 $$ -\frac{dS}{dt} = \alpha SI_{eff} $$
 $$ \frac{dE}{dt} = \alpha SI_{eff} - \beta E $$
-$$ \frac{dI}{dt} = \beta E - (\gamma 
-+ \delta)I $$
+$$ \frac{dI}{dt} = \beta E - \gamma 
++ \delta I $$
 $$ \frac{dR}{dt} = \gamma $$
 $$ \frac{dD}{dt} = \delta I $$
 
