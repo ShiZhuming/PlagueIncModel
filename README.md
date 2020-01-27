@@ -34,3 +34,7 @@ $$ \frac{dD}{dt} = \delta I $$
 |2020/1/26|	26|	5794|	2762|	80|	51|	2.9%|	1.8%|	24.0| 	2.0 |
 
 ## Current Progress
+![avatar](https://github.com/ShiZhuming/PlagueIncModel/blob/master/Cache/2019-nCoV%E6%AD%BB%E4%BA%A1%E7%8E%87-%E7%A1%AE%E8%AF%8A%E4%BA%BA%E6%95%B0.jpg)
+![avatar](https://github.com/ShiZhuming/PlagueIncModel/blob/master/Cache/2019-nCoV%E6%B2%BB%E6%84%88%E4%BA%BA%E6%95%B0-%E6%97%B6%E9%97%B4.jpg)
+![avatar](https://github.com/ShiZhuming/PlagueIncModel/blob/master/Cache/2019-nCoV%E6%B2%BB%E6%84%88%E7%8E%87-%E7%A1%AE%E8%AF%8A%E4%BA%BA%E6%95%B0.jpg)
+![avatar](https://github.com/ShiZhuming/PlagueIncModel/blob/master/Cache/2019-nCoV%E7%96%AB%E6%83%85%E7%BB%9F%E8%AE%A1.jpg)
