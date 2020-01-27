@@ -14,7 +14,7 @@ $$ \frac{dI}{dt} = \beta E - (\gamma
 $$ \frac{dR}{dt} = \gamma $$
 $$ \frac{dD}{dt} = \delta I $$
 
-## data
+## Data
 
 |Date |	Day |	Skeptical |	Comfirmed	Dead |	Cured |	DeathRatio |	CureRatio |	dD/dt |	dR/dt |
 |---: |---: |---------: |--------------: |------: |-----------:|-----------:|------:|-----: |
@@ -32,3 +32,5 @@ $$ \frac{dD}{dt} = \delta I $$
 |2020/1/24|	24|	1965|	1303|	41|	38|	3.1%|	2.9%|	16.0| 	4.0| 
 |2020/1/25|	25|	2684|	1975|	56|	49|	2.8%|	2.5%|	15.0| 	11.0| 
 |2020/1/26|	26|	5794|	2762|	80|	51|	2.9%|	1.8%|	24.0| 	2.0 |
+
+## Current Progress
