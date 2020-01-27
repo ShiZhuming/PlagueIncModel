@@ -41,10 +41,10 @@ All figures are based on fact, if you have any question, please check the websit
 We first drew a curve of death rate against infective, and we find a strong linear relativity between these two variables. The graph is shown below.
 ![avatar](https://github.com/ShiZhuming/PlagueIncModel/blob/master/Cache/2019-nCoV%E6%AD%BB%E4%BA%A1%E7%8E%87-%E7%A1%AE%E8%AF%8A%E4%BA%BA%E6%95%B0.jpg)
 Then we drew a curve of the cured against time, and we found a strong linear relativity between them, which means the cured is steadily increasing with time.
-### Graph
+### Cured Crowds - Time Graph
 ![avatar](https://github.com/ShiZhuming/PlagueIncModel/blob/master/Cache/2019-nCoV%E6%B2%BB%E6%84%88%E4%BA%BA%E6%95%B0-%E6%97%B6%E9%97%B4.jpg)
-### Graph
+### Cure Rate - Infective Graph
 ![avatar](https://github.com/ShiZhuming/PlagueIncModel/blob/master/Cache/2019-nCoV%E6%B2%BB%E6%84%88%E7%8E%87-%E7%A1%AE%E8%AF%8A%E4%BA%BA%E6%95%B0.jpg)
 ### Basic Statistics
-This graph contains the basic statistics of the 2019-nCoV plegue originated from Wuhan, Hubei Prov., China. Deathrate is illustrated as red line according to the right axis, and the infective(comfimred and uncomfirmed), death are illustrated in lines with data dots.
+This graph contains the basic statistics of the 2019-nCoV plague originated from Wuhan, Hubei Prov., China. Deathrate is illustrated as red line according to the right axis, and the infective(comfimred and uncomfirmed), death are illustrated in lines with data dots.
 ![avatar](https://github.com/ShiZhuming/PlagueIncModel/blob/master/Cache/2019-nCoV%E7%96%AB%E6%83%85%E7%BB%9F%E8%AE%A1.jpg)
