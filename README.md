@@ -3,6 +3,7 @@
 We are trying to establish a model which could be used to predict the numbers of deaths and infective of the noovel Coronavirus outbreak in Wuhan, China. The model is based on kinetics and we've made some basic hypothesis.
 ### Categories of individuals
 #### Susceptable, S
+The healthy, uninfected crowd which have a probability of becoming the infective.
 #### Exposed, E
 #### Infective(Segregated), I0
 #### Infective(Unsegregated), I1
@@ -10,6 +11,7 @@ We are trying to establish a model which could be used to predict the numbers of
 #### Recovered, R
 ## Equations
 
+![](http://latex.codecogs.com/gif.latex?I_1 = k_NI)
 $$ I_1 = k_NI $$
 $$ I_{eff} = I_1 + E $$
 
