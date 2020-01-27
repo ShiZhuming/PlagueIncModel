@@ -11,7 +11,7 @@ The healthy, uninfected crowd which have a probability of becoming the infective
 #### Recovered, R
 ## Equations
 
-![](http://latex.codecogs.com/gif.latex?I_1 = k_NI)
+![](http://latex.codecogs.com/gif.latex?I_1=k_NI)
 $$ I_1 = k_NI $$
 $$ I_{eff} = I_1 + E $$
 
