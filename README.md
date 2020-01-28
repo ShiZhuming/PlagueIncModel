@@ -43,6 +43,7 @@ All figures are based on fact, if you have any question, please check the websit
 |2020/1/24|	24|	1965|	1303|	41|	38|	3.1%|	2.9%|	16.0| 	4.0| 
 |2020/1/25|	25|	2684|	1975|	56|	49|	2.8%|	2.5%|	15.0| 	11.0| 
 |2020/1/26|	26|	5794|	2762|	80|	51|	2.9%|	1.8%|	24.0| 	2.0 |
+|2020/1/27| 27| 5794| 4474| 106|  60|2.4%|  1.3%|26.0|9.0|
 
 ## Current Progress
 ### Death Rate - Infective Graph
