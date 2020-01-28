@@ -19,7 +19,7 @@ The healthy, uninfected crowd which have a probability of becoming the infective
 ### ![](http://latex.codecogs.com/gif.latex?-\frac{dS}{dt}=\\alpha%20SI_{eff})
 ### ![](http://latex.codecogs.com/gif.latex?\frac{dE}{dt}=\\alpha%20SI_{eff}-\\beta%20E)
 ### ![](http://latex.codecogs.com/gif.latex?\frac{dI}{dt}=\\beta%20E-(\\gamma%20+\\delta%20)I)
-### ![](http://latex.codecogs.com/gif.latex?\frac{dR}{dt}=\\gamma)
+### ![](http://latex.codecogs.com/gif.latex?\frac{dR}{dt}=\\gamma%20t)
 ### ![](http://latex.codecogs.com/gif.latex?\frac{dD}{dt}=\\delta%20I)
 
 ## Data
