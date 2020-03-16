@@ -1,6 +1,7 @@
 # PlagueIncModel
 ## Ideas
 We are trying to establish a model which could be used to predict the numbers of deaths and infective of the noovel Coronavirus outbreak in Wuhan, China. The model is based on kinetics and we've made some basic hypothesis.
+Now that the virus is spreading all over the world. There's more data to train, optimize and validate the efficiency and accuracy of the model.
 ### Categories of individuals
 #### Susceptable, S
 The healthy, uninfected crowd which have a probability of becoming the infective.
