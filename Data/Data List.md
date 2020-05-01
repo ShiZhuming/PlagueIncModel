@@ -1,6 +1,7 @@
 # Infected, Current Infected and Death data of listed Countries
 ## United States
 |Day	|Current	|Total	|Death|
+|---: |-------: |-----: |---: |
 |1	|12	|15	|0|
 |2	|12	|15	|0|
 |3	|12	|15	|0|
