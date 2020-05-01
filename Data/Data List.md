@@ -1,5 +1,5 @@
 # Infected, Current Infected and Death data of listed Countries
-## United States
+## United States (From worldometer.org)
 ### Day 1 starts at Feb 15th
 |Day	|Current	|Total	|Death|Death Rate|
 |---: |-------: |-----: |---: |------: |
