@@ -1,5 +1,6 @@
 # Infected, Current Infected and Death data of listed Countries
 ## United States
+### Day 1 starts at Feb 15th
 |Day	|Current	|Total	|Death|
 |---: |-------: |-----: |---: |
 |1	|12	|15	|0|
