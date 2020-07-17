@@ -40,6 +40,12 @@ def simulate(E, I, ind, dt, alphaS=6.394, beta=1/10, gamma=0.13731, delta=0.0088
 
 
 def distance(listA, listB):
+    """
+    The function that calculates the average distance of the real data and the simulation.
+    :param listA:
+    :param listB:
+    :return:
+    """
     dist = 0
     for _ in range(0, len(listA)):
         dist += (listA[_] - listB[_])**2
@@ -228,11 +234,17 @@ for _ in range(0, len(I_res)):
     print(_, I_res[_], sep='\t')
 """
 # Training the model
+sync()
+
 for count in range(11):
     #if name_list[count] in ['I_USA']:
     if True:
         new_ind = new_name.index(name_list[count])
         I_0 = data_list[count]
+        day_delay = 0
+        while I_0[0] == 0:
+            I_0 = data_list[count][1:]
+            day_delay += 1
         country = name_list[count]
         population = popu_list[new_ind]
         print('Current Country:{}'.format(country))
@@ -247,7 +259,7 @@ for count in range(11):
                   (0, 0.2, 2)
               ],
               duration=300,
-              filename=country
+              filename="{}_delay{}".format(country, day_delay)
               )
 
 
